@@ -57,6 +57,8 @@ This project focuses on building a computer vision-based document scanner using 
 * Apply adaptive thresholding
 
 ---
+<img width="1408" height="768" alt="pipeline document scanner" src="https://github.com/user-attachments/assets/42767517-cac2-4787-b287-a399f8170f06" />
+
 
 ## 🖥️ User Interface
 
